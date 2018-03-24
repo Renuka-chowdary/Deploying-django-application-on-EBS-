@@ -32,6 +32,7 @@ Deplying sample django application on EBS-Elastic Beanstalk
 
 7. Open http://127.0.0.1:8000/ in a web browser to view the site:
 
+   ![django](https://user-images.githubusercontent.com/33515288/37865965-d2ec244a-2fa9-11e8-913a-fc5171bf981f.png)
 
 
 8. Configuring to EBS
